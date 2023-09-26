@@ -1,0 +1,70 @@
+20230925	21:21:21	3e134c99-475a-4df2-9a41-2c7a039b542a	GET	undefined	/index.html
+20230925	21:21:21	e95fe2e6-4ad9-48a1-a5d9-cd0da7da45bb	GET	undefined	/css/style.css
+20230925	21:25:59	3e9e4a5c-fe50-4727-9845-e796900a2257	GET	undefined	/index.html
+20230925	21:25:59	c7789fe4-e29f-4be7-bbc5-505d527c047d	GET	undefined	/css/style.css
+20230925	21:31:23	9f8f7970-6f25-491e-a2b2-72252204372e	GET	undefined	/
+20230925	21:31:29	4af4cb34-9359-4aaa-88e4-5cd8a7c4041b	GET	undefined	/css/style.css
+20230925	22:54:21	baf0b5fb-3ef7-454b-a9e1-dbe175a8d1c8	GET	undefined	/
+20230925	22:54:47	eb124f23-96da-45d2-8221-b248b9e0f8e9	GET	undefined	/css/style.css
+20230925	22:56:21	ba33aa34-d033-4a37-b673-5b50d91a13ad	GET	undefined	/
+20230925	22:56:21	765b007a-f381-4740-9026-31cc3ba5e3ee	Error: Not allowed by CORS
+20230925	22:56:45	eaa04814-b1d6-4240-83e7-d64ba3bd62ad	GET	undefined	/
+20230925	22:56:45	f9b27f28-43b1-4af6-a037-54ae8c536807	Error: Not allowed by CORS
+20230925	22:56:48	9ce64f50-7033-460e-a9ba-1a4abb5c5ac2	GET	undefined	/
+20230925	22:56:48	4c5886b5-ef47-4944-93fe-d1890cfeec84	Error: Not allowed by CORS
+20230925	22:57:10	89ce573e-a039-4f9c-b78d-f5d0febe18dd	GET	undefined	/
+20230925	22:57:10	bac800bf-bc9a-4bab-b6c0-ddf6d780cb39	GET	undefined	/css/style.css
+20230926	17:17:20	080cf17e-3cd1-41b1-9da9-659b4b5269d2	GET	undefined	/index.html
+20230926	17:17:21	6092fdca-0e7c-4cba-b168-5366c0f53515	GET	undefined	/css/style.css
+20230926	17:17:21	86317f43-d437-4196-9b77-91f273e46cb0	GET	undefined	/favicon.ico
+20230926	17:17:21	b2fc88f7-402c-44c5-80fe-94454f4006ae	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	17:17:33	ed1b1b27-d529-43dd-9ae5-2f1fd86d05fe	GET	undefined	/test
+20230926	17:17:33	163f60ea-7175-4812-b6b0-d506a2238ca8	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	17:17:33	f4758230-b6c5-47b3-81fc-0e4ac174bedd	GET	undefined	/favicon.ico
+20230926	17:17:33	b46d1b2f-d582-4f2b-bc08-7113166ca7f6	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	17:18:11	2b06ab24-d0ee-4983-a9d0-4cf943c07573	GET	undefined	/subdir/test
+20230926	17:18:11	c97d9868-4f0a-4175-a251-306cbf9f903c	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\subdir\test.html'
+20230926	17:18:11	5e887d93-ac30-4d36-92a0-c562c025513e	GET	undefined	/favicon.ico
+20230926	17:18:11	b617f61c-c249-4195-90e4-9542d04585e8	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	17:18:17	f1c236d9-423a-43ee-86dd-a6e97f2bc644	GET	undefined	/subdir/test
+20230926	17:18:17	bfcc5e2e-c1ba-44f2-be04-673bab2a8967	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\subdir\test.html'
+20230926	17:18:17	63de4d9a-a918-4d43-a9f6-d3f7878eb03a	GET	undefined	/favicon.ico
+20230926	17:18:17	da68c918-e90b-4e42-b5d8-d20ef8a2fcde	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	17:19:39	40633f94-f833-4300-870f-4c1b0d11a3de	GET	undefined	/subdir/test
+20230926	17:19:41	ee5ac6e6-555c-4c64-9238-ca43a828e33f	GET	undefined	/favicon.ico
+20230926	17:19:41	81e348a2-03e0-4189-a31e-c092514e2bc8	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	17:20:02	4777c04c-62ba-4de4-8869-07aaf862df7a	GET	undefined	/subdir/index
+20230926	17:20:02	e25a384e-735c-4685-a05f-0fdee14a3e53	GET	undefined	/favicon.ico
+20230926	17:20:02	b1cf1c7f-4ae1-4bba-8c6d-3525e10526a1	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	19:35:37	41034d9d-4328-42ad-ae37-5f0923496031	GET	undefined	/favicon.ico
+20230926	19:35:39	e23852f9-3a41-441b-b03e-eb9a96181316	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	19:35:52	9be63c8f-dc76-46a4-9738-9edac7450fd0	GET	undefined	/subdir/test
+20230926	19:35:52	88b55879-6921-4eda-9442-1ca6cd687455	GET	undefined	/favicon.ico
+20230926	19:35:52	f6435cfe-0018-4d2f-9240-0a4e3a586ca0	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	21:19:44	62a74365-bc9e-4cb1-bf83-980938769bf2	GET	undefined	/favicon.ico
+20230926	21:19:45	6dd0bcc3-497e-4a97-bd6c-ca7605221b3c	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	21:19:56	722df7ac-4da1-44b2-9d1c-e3380bab575c	GET	undefined	/newpage
+20230926	21:19:56	37f6333c-7049-4e9e-a7a5-c7c6c2819a00	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\routes\webviews\newpage.html'
+20230926	21:19:56	b078a8a4-df14-464b-a804-f8dcd6272709	GET	undefined	/favicon.ico
+20230926	21:19:56	53432bfe-39b3-4b9f-8a06-dfaa7bcaa324	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	21:20:15	5cfaee37-6dea-4419-844b-7081fdb5c8dd	GET	undefined	/index.html
+20230926	21:20:15	20e57d8c-cb84-42fe-bcbc-8b0dfef22807	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\routes\webviews\index.html'
+20230926	21:20:15	3e1c322e-1586-419f-aeb9-03e7d0189171	GET	undefined	/favicon.ico
+20230926	21:20:15	3cd3c2d8-faf2-4094-a150-41100d6015bf	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	21:25:05	a3755441-a21c-4d3f-8329-a13baa0b0c85	GET	undefined	/index.html
+20230926	21:25:06	b68d8c3c-b4c2-45b0-8553-60e9d826525d	GET	undefined	/css/style.css
+20230926	21:25:06	6d6dce64-c8dc-492f-8e9c-17d62828b789	GET	undefined	/favicon.ico
+20230926	21:25:06	e352bd73-4cca-44ef-a400-60ce642337da	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	21:25:16	3f25fc45-1c2d-471f-a9e9-fbaceb42e8a1	GET	undefined	/newpage
+20230926	21:25:16	2a1ec1c6-63ac-4dad-87a4-87954c763f9e	GET	undefined	/css/style.css
+20230926	21:25:17	de9e3fac-cb69-4251-bb76-2558843bffd0	GET	undefined	/img/img1.jpeg
+20230926	21:25:17	e25d1806-4d09-439e-b466-27d00631828a	GET	undefined	/favicon.ico
+20230926	21:25:17	3ee5c53e-04ae-4a2e-a3f5-a943802677b6	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	21:27:57	790049b5-7d3c-4922-a9dd-c8f4766a2687	GET	undefined	/newpage.html
+20230926	21:27:59	63b023d8-fc4d-40b5-802d-6ea14a415305	GET	undefined	/css/style.css
+20230926	21:27:59	c57550c7-08f9-4e0e-817a-458755c0dc30	GET	undefined	/img/img1.jpeg
+20230926	21:28:01	7a56600d-48b2-4293-90ed-8d4e2fbbaff0	GET	undefined	/favicon.ico
+20230926	21:28:01	fadb1160-e41a-48ba-9886-1d243ea9bd32	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	22:28:13	f956fc48-564c-4828-a808-29b7cd45b4a8	GET	undefined	/employee
+20230926	22:28:14	210fea25-802e-4623-b955-3c576ed0bcb3	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
+20230926	22:29:14	a29c4cf6-971c-4b96-bbdf-fb8d1bdd78a0	GET	undefined	/employees
